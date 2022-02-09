@@ -13,4 +13,7 @@ Pasta onde sera colocado os arquivo do projeto.
 
 4) Os codigos que colocam no github estara sempre 
 disponiveis a todos os usuários da web?
-Se estiver em publico sim
+Se estiver em publico sim.
+
+5) O que é VCS?
+software de controle de versão.
