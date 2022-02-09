@@ -27,4 +27,7 @@ seja mesclado nos arquivos do projeto principal.
 É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório. 
 
 8) O que é Fork?
-Que é uma copia de um repositorio de outro usuario
+Que é uma copia de um repositorio de outro usuario.
+
+9) O que é clone?
+Pegar o repositorio remoto e clonar para o repositorio local.
