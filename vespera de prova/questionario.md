@@ -25,3 +25,6 @@ seja mesclado nos arquivos do projeto principal.
 
 7) O que é pull Request?
 É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório. 
+
+8) O que é Fork?
+Que é uma copia de um repositorio de outro usuario
