@@ -9,4 +9,8 @@ Para funcionalidades que gerenciam pacotes de suporte, os gerentes de pacotes at
 compatíveis são incluídos na tabela com suas linguagens relevantes.
 
 3) O que é Repositorio?
-Pasta onde sera colocado os arquivo do projeto
+Pasta onde sera colocado os arquivo do projeto.
+
+4) Os codigos que colocam no github estara sempre 
+disponiveis a todos os usuários da web?
+Se estiver em publico sim
