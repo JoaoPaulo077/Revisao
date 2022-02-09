@@ -17,3 +17,8 @@ Se estiver em publico sim.
 
 5) O que é VCS?
 software de controle de versão.
+
+6) O que é Branch?
+É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, 
+gerando uma nova ramificação garantindo que o código instável não 
+seja mesclado nos arquivos do projeto principal. 
