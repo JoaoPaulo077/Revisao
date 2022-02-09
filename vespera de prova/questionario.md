@@ -21,4 +21,7 @@ software de controle de versão.
 6) O que é Branch?
 É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, 
 gerando uma nova ramificação garantindo que o código instável não 
-seja mesclado nos arquivos do projeto principal. 
+seja mesclado nos arquivos do projeto principal.
+
+7) O que é pull Request?
+É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório. 
